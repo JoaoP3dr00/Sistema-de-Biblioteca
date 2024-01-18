@@ -217,7 +217,7 @@ void admin(char c, Livro *livro){
 }
 
 void header(){
-	printf(" || Sistema de Gerenciamento da Biblioteca UFMS || \n");
+	printf(" || Sistema de Gerenciamento da Biblioteca || \n");
 	printf("\n");
 	printf("Comandos: A (Adicionar) - R (Remover) - P (Listar livros) -\n");
 	printf("E (Empréstimo) - D (Devolução) - I (Listar empréstimos) - S (Sair)\n");
